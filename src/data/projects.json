@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This web application allows users to track their expenses and manage them effectively. The front-end is built using React.js, while the back-end is set up using Node.js and Express with a MySQL database. So far, users can view, add, update, and delete expenses, including details such as name, description, type, and amount. Additionally, I am planning to add a graph function that will show users how their expenses fluctuate throughout the months.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/Srs0430"
+  },
+  {
+    "title": "Cryptocurrency Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This website displays the stock prices of some of the cryptocurrency coins. The users can search for specific coins. I am currently working on displaying graphs of the coins' prices changing over time. I coded this projects using React.js, HTML, and CSS. Retrieved and processed cryptocurrency coin data from external API to enhance application functionality.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/Srs0430"
+  },
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "Developed using React.js, CSS, and HTML, this application allows users to create unique accounts and offers a shopping list. Users can select and add items to their shopping cart and proceed to purchase the products.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/Srs0430"
+  }
+]

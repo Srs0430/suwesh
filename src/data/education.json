@@ -1,0 +1,9 @@
+[
+    {
+      "major": "Computer Science",
+      "degree": "Bachelor of Science",
+      "university": "University of Auckland",
+      "status": "Graduate",
+      "summary": ["Human-computer interaction: learned how to design evaluate the usability of a user interface", "Data communication: learned fundamentals of different data communications and networking technologies", "Cyber security: learned concepts of software, system and network security", "Operating systems: learned general principles of operating system", "Functional programming and distributed services: learned concepts and applications to data integration from heterogeneous and asynchronous collections, web building, cloud clients and services "]
+    }
+]

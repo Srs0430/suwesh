@@ -1,0 +1,34 @@
+[
+  {
+    "role": "IT Helpdesk Technician",
+    "organisation": "Ricoh",
+    "startDate": "November, 2022",
+    "endDate": "Present",
+    "experiences": ["Provided technical support for computer systems, software, and hardware.",
+
+"Installed, configured, and maintained systems and assisted with peripheral setup.", 
+
+"Resolved technical issues promptly to minimize downtime for end-users.", 
+
+"Documented incidents and collaborated with IT teams for complex problem resolution.", 
+
+"Conducted user training sessions and maintained an accurate asset inventory.", 
+
+"Contributed to internal IT process development and improvement.", 
+
+"Developed and implemented PowerApps and Power Automate solutions to streamline internal operations, enhancing efficiency and reducing manual processes.", 
+
+"Developed and implemented PowerShell scripts to enhance internal operations and automate routine tasks, improving efficiency and reducing manual workload.", 
+
+"Specialized in designing, developing, and implementing Nintex workflow solutions."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Online Assistant",
+    "organisation": "Countdown",
+    "startDate": "August, 2019",
+    "endDate": "January, 2023",
+    "experiences": ["Worked in a high-pressure environment with a team.", "Collaborated with a team of six colleagues to prepare and pack over 100 orders per day.", "Provided excellent customer service to customers in need."],
+    "imageSrc": "history/microsoft.png"
+  }
+]

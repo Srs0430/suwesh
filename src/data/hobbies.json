@@ -1,0 +1,22 @@
+[
+    {
+      "hobby": "Badmintion",
+      "summary": "I have been playing badminton for a long time.",
+      "image": "projects/project.png"
+    },
+    {
+      "hobby": "Volleyball",
+      "summary": "I enjoy playing Volleyball with my friends. I am not very good at it but I enjoy playing it.",
+      "image": "projects/project.png"
+    },
+    {
+      "hobby": "Guitar",
+      "summary": "I know how to play maybe about 2 songs on guitar. Just wanted to put something here to make myself look cool.",
+      "image": "projects/project.png"
+    },
+    {
+      "hobby": "Gaming",
+      "summary": "I am a filty casual gamer. I enjoy playing games with my friends over the weekends.",
+      "image": "projects/project.png"
+    }
+]
